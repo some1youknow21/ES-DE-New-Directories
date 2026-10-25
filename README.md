@@ -24,3 +24,4 @@ This release contains all of the ES-DE folders, so you can drop this ROMs folder
 
 ## Credits
 - All credit goes to the <a href="https://es-de.org">ES-DE team</a> and the wonderful frontend they've created.
+- Thanks to Russ from Retro Game Corps for creating the original repository that helped tons of people with their handhelds !
