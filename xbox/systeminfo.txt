@@ -1,0 +1,21 @@
+System name:
+xbox
+
+Full system name:
+Microsoft Xbox
+
+Supported file extensions:
+.iso .ISO .lnk .LNK .xbe .XBE .xiso .XISO
+
+Launch command:
+%STARTDIR%=%EMUDIR% %EMULATOR_XEMU% -dvd_path %ROM%
+
+Alternative launch commands:
+%STARTDIR%=%EMUDIR% %EMULATOR_CXBX-RELOADED% %ROM%
+%HIDEWINDOW% %ESCAPESPECIALS% %EMULATOR_OS-SHELL% /C %ROM%
+
+Platform (for scraping):
+xbox
+
+Theme folder:
+xbox
