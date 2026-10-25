@@ -1,3 +1,7 @@
+# About this fork
+This fork provides the ROMs folder from updated versions of <a href="https://es-de.org">ES-DE</a>, with multiple versions available. I'll try to update it as soon as I can when a new ES-DE update drops. It means that new folders will appear (example : xbox360) with their systeminfo.txt.
+That said, I'll leave the original README below :
+
 # ES-DE Directories (Android)
 This is a collection of default <a href="https://es-de.org">ES-DE</a> ROM directories, from their Android app.
 
